@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:d8edc1,100:9fcff8&height=250&section=header&text=👋%20WECOME%20TO%20YUNA'S%20GITHUB%20PAGE%20👋&desc=Growing%20up%20Everyday%20🌱&descAlignY=48&fontSize=40&fontAlignY=30&fontColor=ffffff)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyn94&theme=react)](https://github.com/lyn94/github-readme-activity-graph)
 <!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyn94&theme=react)](https://github.com/lyn94/github-readme-activity-graph)
+
 **lyn94/lyn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
